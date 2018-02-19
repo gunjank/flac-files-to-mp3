@@ -1,0 +1,27 @@
+{
+  "name": "flac-files-to-mp3",
+  "version": "1.0.0",
+  "description": "Flac files to mp3 convertor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunjank/flac-files-to-mp3.git"
+  },
+  "keywords": [
+    "flac",
+    "mp3"
+  ],
+  "author": "Gunjan Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunjank/flac-files-to-mp3/issues"
+  },
+  "homepage": "https://github.com/gunjank/flac-files-to-mp3#readme",
+  "dependencies": {
+    "flac-to-mp3": "^1.0.4"
+  }
+}
