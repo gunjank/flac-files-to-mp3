@@ -1,6 +1,6 @@
 # Flac to MP3
 
-Convert .flac file(s) to .mp3. It converts all `.flac` files under given directory. 
+Convert .flac file(s) to .mp3 for a given directory. 
 
 ## Usage
 
